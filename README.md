@@ -1,3 +1,3 @@
 # NotesAppLofCoding
-This repository for Notes app tutorial
+This repository is for the Notes app tutorial
 https://www.youtube.com/watch?v=DxkAfObVjOs
